@@ -50,8 +50,9 @@ portfolio-website/
 ├── script.js         # Core JavaScript for interactivity
 ├── assets/           # Directory for all media files
 │   ├── images/       # All project images (profile, project previews, etc.)
-│ 
+│   └── icons/        # SVG or image-based icons
 └── README.md         # You are reading this file!
+
 
 
 ⚙️ Installation and Setup
