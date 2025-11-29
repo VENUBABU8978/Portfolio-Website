@@ -1,8 +1,8 @@
-🌐 Personal Portfolio Website
+**🌐 Personal Portfolio Website**
 
 A clean, modern, and fully responsive personal portfolio website showcasing my skills, projects, and educational background. Built entirely using core front-end technologies: HTML, CSS, and JavaScript.
 
-✨ Features
+**✨ Features**
 
 Responsive Design: Optimized for all screen sizes (desktop, tablet, and mobile) using CSS Flexbox and media queries.
 
@@ -16,15 +16,9 @@ Skills Matrix: Clearly lists technical proficiencies (HTML5, CSS3, JavaScript, P
 
 Contact Form: A direct way for visitors and recruiters to get in touch.
 
-🚀 Technologies Used
-
-Technology
-
-Purpose
+**🚀 Technologies Used**
 
 HTML5
-
-Structure and Semantic Content
 
 CSS3
 
@@ -34,36 +28,35 @@ JavaScript (ES6+)
 
 Dynamic interactions, UI behavior 
 
-🔗 Live Demo & Repository
+**🔗 Live Demo & Repository**
 
-Live Preview: https://VENUBABU8978.github.io/Portfolio-Website/
+**Live Preview:** https://VENUBABU8978.github.io/Portfolio-Website/
 
-Repository: https://github.com/VENUBABU8978/Portfolio-Website
+**Repository:** https://github.com/VENUBABU8978/Portfolio-Website
 
-⚙️ Installation and Setup
+**⚙️ Installation and Setup**
 
 This is a static website and requires no installation of dependencies (like Node.js).
 
-Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/VENUBABU8978/Portfolio-Website.git
 
 
-
-Navigate to the project directory:
+**Navigate to the project directory:**
 
 cd portfolio-website
 
 
-Open in browser:
+**Open in browser:**
 Simply double-click the index.html file in your local file system to view the website in your browser.
 
-🤝 Contact
+**🤝 Contact**
 
-Divya Alla
+Venu Babu Gunturu
 
-LinkedIn: https://www.linkedin.com/in/venubabu-gunturu-104249263
+**LinkedIn:** https://www.linkedin.com/in/venubabu-gunturu-104249263
 
-Email: gunturvenubabu@gmail.com
+**Email:** gunturvenubabu@gmail.com
 
 Feel free to connect and explore the projects!
