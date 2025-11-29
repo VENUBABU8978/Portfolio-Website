@@ -35,21 +35,20 @@ Portfolio-Website/
 │── README.md
 │
 └── assets/
-     ├── images/
-     │     ├── profile-venu.jpeg
-     │     ├── about-venu.jpeg
-     │     ├── Experience.jpeg
-     │     ├── Project 1.png
-     │     ├── Project 2.png
-     │     ├── Project 3.png
-     │     ├── project4.jpg
-     │     ├── project5.png
-
-
+    └── images/
+         ├── profile-venu.jpeg
+         ├── about-venu.jpeg
+         ├── Experience.jpeg
+         ├── Project 1.png
+         ├── Project 2.png
+         ├── Project 3.png
+         ├── project4.jpg
+         ├── project5.png
 
 📬 Contact
 
 If you'd like to get in touch, feel free to connect:
+
 📧 your email here
 🔗 LinkedIn: https://www.linkedin.com/in/venubabu-gunturu-104249263
 
