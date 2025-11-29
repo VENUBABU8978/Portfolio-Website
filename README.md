@@ -40,21 +40,6 @@ Live Preview: https://VENUBABU8978.github.io/Portfolio-Website/
 
 Repository: https://github.com/VENUBABU8978/Portfolio-Website
 
-🏗️ Project Structure
-
-The project follows a standard file structure for a static web application:
-
-portfolio-website/
-├── index.html        # Main entry point and page structure
-├── style.css         # All global and component styling
-├── script.js         # Core JavaScript for interactivity
-├── assets/           # Directory for all media files
-│   ├── images/       # All project images (profile, project previews, etc.)
-│   └── icons/        # SVG or image-based icons
-└── README.md         # You are reading this file!
-
-
-
 ⚙️ Installation and Setup
 
 This is a static website and requires no installation of dependencies (like Node.js).
