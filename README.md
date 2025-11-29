@@ -36,14 +36,15 @@ Portfolio-Website/
 │
 └── assets/
     └── images/
-         ├── profile-venu.jpeg
-         ├── about-venu.jpeg
-         ├── Experience.jpeg
-         ├── Project 1.png
-         ├── Project 2.png
-         ├── Project 3.png
-         ├── project4.jpg
-         ├── project5.png
+        ├── profile-venu.jpeg
+        ├── about-venu.jpeg
+        ├── Experience.jpeg
+        ├── Project 1.png
+        ├── Project 2.png
+        ├── Project 3.png
+        ├── project4.jpg
+        ├── project5.png
+
 
 📬 Contact
 
