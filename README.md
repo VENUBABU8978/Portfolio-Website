@@ -25,7 +25,7 @@ JavaScript
 
 📌 Live Demo
 
-🔗 GitHub Pages: https://divyaalla22.github.io/Portfolio-Website/
+🔗 GitHub Pages: https://VENUBABU8978.github.io/Portfolio-Website/
 
 📁 Folder Structure
 Portfolio-Website/
